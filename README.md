@@ -66,7 +66,7 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ## 🚀 Getting Started
 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/theNisith/Portfolio.git>
 cd Portfolio
 ```
 2. Install Dependencies
